@@ -92,7 +92,7 @@
     <info-reports-plugin.version>3.3.0</info-reports-plugin.version>
     <!-- test -->
     <junit-jupiter.version>5.8.2</junit-jupiter.version>
-    <mockito.version>4.5.1</mockito.version>
+    <mockito.version>4.6.0</mockito.version>
     <hamcrest.version>2.2</hamcrest.version>
     <system-stubs.version>2.0.1</system-stubs.version>
     <!-- dependencies -->
