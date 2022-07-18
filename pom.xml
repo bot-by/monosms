@@ -89,7 +89,7 @@
     <javadoc-plugin.version>3.4.0</javadoc-plugin.version>
     <site-plugin.version>3.12.0</site-plugin.version>
     <docs-maven-skin.version>2.2.6</docs-maven-skin.version>
-    <info-reports-plugin.version>3.3.0</info-reports-plugin.version>
+    <info-reports-plugin.version>3.4.0</info-reports-plugin.version>
     <!-- test -->
     <junit-jupiter.version>5.8.2</junit-jupiter.version>
     <mockito.version>4.6.1</mockito.version>
